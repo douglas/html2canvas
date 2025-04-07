@@ -1,8 +1,3 @@
-A similar PR may already be submitted!
-Please search among the [Pull request](https://github.com/niklasvh/html2canvas/pulls) before creating one.
-
-Thanks for submitting a pull request! Please provide enough information so that others can review your pull request:
-
 Before opening a pull request, please make sure all the tests pass locally by running `npm test`.
 
 **Summary**
