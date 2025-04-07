@@ -2,8 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [1.4.1](https://github.com/niklasvh/html2canvas/compare/v1.4.0...v1.4.1) (2022-01-22)
+## [1.5.0](https://github.com/niklasvh/html2canvas/compare/v1.4.1...v1.5.0) (2025-04-07)
 
+### fix
+
+* [generate image no response in IOS 15.4 · Issue #2864 · niklasvh/html2canvas](https://github.com/niklasvh/html2canvas/issues/2864)
+* [Operation is insecure in safari · Issue #2688 · niklasvh/html2canvas](https://github.com/niklasvh/html2canvas/issues/2688)
+
+### other
+
+* Added `.tool-versions` for easier nodejs install with mise/asdf
+
+## [1.4.1](https://github.com/niklasvh/html2canvas/compare/v1.4.0...v1.4.1) (2022-01-22)
 
 ### deps
 
